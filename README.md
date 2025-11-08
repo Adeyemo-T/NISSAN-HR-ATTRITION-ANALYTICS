@@ -49,17 +49,14 @@ NISSAN is facing a significant talent retention challenge, evidenced by a high *
 * **High Attrition Rate:** The overall **Attrition Rate stands at 31%**, representing 3,000 total employee exits.
 * **Top Exit Drivers:** The leading reasons for exits are **Retirement (22.59%)**, **Work-Life Balance (20.61%)**, and **Career Change (19.48%)**.
 
-![Attrition Overview KPIs and Exit Reasons](YOUR_IMAGE_LINK_FOR_HOME_OVERVIEW_PAGE_HERE)
-*(**Action:** Insert the image link showing the **Attrition Rate KPI, Total Exits, Avg Tenure, Attrition Trend Over Time, and Top Reasons for Exits (Pie Chart)**.)*
-
+![Image](https://github.com/user-attachments/assets/12eb7e5c-a3cd-4994-b8a3-e25cf48825c8)
 
 #### Recruitment Source & Early Churn Risk
 
 * **Early Exit Crisis:** A critical **16% of all leavers depart within their first two years** of employment, indicating fundamental failures in the onboarding or initial role fit process.
 * **Underperforming Recruitment Sources:** Sources like **"Online Job Board"** show higher exit rates than trusted channels like **"Referral"** and **"LinkedIn."** Resources should be redirected to top-performing sources.
 
-![Recruitment, Tenure, and Early Exits](YOUR_IMAGE_LINK_FOR_RECRUITMENT_TENURE_PAGE_HERE)
-*(**Action:** Insert the image link showing the **% Leavers Within First Two Years, Performance Rating vs Attrition, and Hire Sources vs Attrition Status charts**.)*
+![Image](https://github.com/user-attachments/assets/89146540-3d50-4d33-b90a-28352969279c)
 
 
 #### Manager and Departmental Risk
@@ -68,8 +65,9 @@ NISSAN is facing a significant talent retention challenge, evidenced by a high *
 * **Managerial Impact:** Data identifies **Managers with the Most Employee Exits**, mandating focused leadership support and feedback reviews to address potential poor management practices.
 * **Post-COVID Impact:** Departments like **Customer Service and Operations** suffered the most significant attrition impact after the COVID-19 period.
 
-![Manager, Department, and Performance Charts](YOUR_IMAGE_LINK_FOR_MANAGER_DEPARTMENT_PAGE_HERE)
-*(**Action:** Insert the image link showing the **Departmental Breakdown, Managers with Most Exits, and Department Impact Post-COVID charts**.)*
+![Image](https://github.com/user-attachments/assets/27c92803-fe0e-4cfc-89a4-7bf2198f08d8)
+![Image](https://github.com/user-attachments/assets/9fdb13a4-7f95-479b-ad83-6167c52597f9)
+![Image](https://github.com/user-attachments/assets/0d1ab8ba-dd0e-45f6-988c-87da1a4adf7c)
 
 ## Business Recommendations
 
