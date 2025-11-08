@@ -1,5 +1,6 @@
 # NISSAN HR ATTRITION ANALYTICS: Mitigating Turnover Risk and Improving Retention
 
+![Image](https://github.com/user-attachments/assets/4bd3ffa1-21f4-4541-b886-07d8d9c1e6eb)
 ## 1. Project Background
 
 A major automotive company (NISSAN) is facing challenges with talent retention, characterized by a significant **Attrition Rate (31%)** and high volume of employee exits. High turnover threatens institutional knowledge, disrupts operational continuity, and drives up recruitment and training costs.
@@ -28,7 +29,7 @@ The model consists of two connected tables:
 The tables are connected via a **One-to-Many relationship** between the `DATE TABLE` and the `attrition sheet` on the `Date of Hire` field.
 
 
-*(**Action:** Insert the image of your **Power BI Model View** showing the `attrition sheet` and `DATE TABLE` connected.)*
+![Image](https://github.com/user-attachments/assets/88c27bef-65df-4ed2-8b09-2de86e83752f)
 
 ####  Data Cleaning and Preparation
 The data cleaning and preparation process was primarily executed using **Power Query (M Language)** to ensure data quality and integrity before analysis.
@@ -36,6 +37,7 @@ The data cleaning and preparation process was primarily executed using **Power Q
 * **Fact Table Transformation:** Power Query was used to handle missing values, standardize text fields (e.g., Department names), and ensure the accuracy of the `Date of Hire` field.
 * **Dimensional Table Creation:** A dedicated **`DATE TABLE`** was created and standardized to enable consistent time intelligence and trend analysis.
 * **Key Metric Calculation (DAX):** Complex measures like **Attrition Rate (31%)**, **Avg Tenure of Leavers (5.31)**, **% Leavers Within First Two Years (16%)**, and the **Attrition Trend Over Time** were calculated using DAX (Data Analysis Expressions).
+  ![Image](https://github.com/user-attachments/assets/f7a173bd-0610-4c91-9a7c-73ec471856de)
 
 ##  Executive Summary
 
