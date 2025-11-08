@@ -14,7 +14,7 @@ The analysis is structured around the following key areas:
 * **Post-COVID Impact:** Evaluation of how the pandemic period influenced employee tenure and departmental churn.
 
 
-* **Interactive Dashboard (6 Pages):** The full HR Attrition Analytics dashboard can be accessed [here](LINK_TO_POWER_BI_DASHBOARD).
+* **Interactive Dashboard (6 Pages):** The full HR Attrition Analytics dashboard can be accessed [here](https://app.powerbi.com/links/L1VMRYDyyo?ctid=9db3791d-d5d0-4f91-b691-e83929715f73&pbi_source=linkShare).
 ##  Data Structure & Initial Checks
 
 #### Data Overview
