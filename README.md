@@ -1,7 +1,7 @@
 # NISSAN HR ATTRITION ANALYTICS: Mitigating Turnover Risk and Improving Retention
 
 ![Image](https://github.com/user-attachments/assets/4bd3ffa1-21f4-4541-b886-07d8d9c1e6eb)
-## 1. Project Background
+##  Project Background
 
 A major automotive company (NISSAN) is facing challenges with talent retention, characterized by a significant **Attrition Rate (31%)** and high volume of employee exits. High turnover threatens institutional knowledge, disrupts operational continuity, and drives up recruitment and training costs.
 
